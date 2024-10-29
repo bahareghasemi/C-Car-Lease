@@ -1,0 +1,12 @@
+D:\Humber\DataStructure\Project\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\Humber\DataStructure\Project\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+D:\Humber\DataStructure\Project\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\Humber\DataStructure\Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\Humber\DataStructure\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Humber\DataStructure\Project\Project\Project\bin\Debug\Project.exe.config
+D:\Humber\DataStructure\Project\Project\Project\bin\Debug\Project.exe
+D:\Humber\DataStructure\Project\Project\Project\bin\Debug\Project.pdb
+D:\Humber\DataStructure\Project\Project\Project\obj\Debug\Project.Form1.resources
+D:\Humber\DataStructure\Project\Project\Project\obj\Debug\Project.exe
+D:\Humber\DataStructure\Project\Project\Project\obj\Debug\Project.pdb
+D:\Humber\DataStructure\Project\Project\Project\obj\Debug\Project.Form2.resources
